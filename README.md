@@ -44,11 +44,11 @@ The programs were written, compiled and tested using Termux on an Android device
 
 Author
 
-GitHub: "franciskyalo088-eng" (https://github.com/franciskyalo088-eng)
+GitHub: "francis-codes197" (https://github.com/francis-codes197)
 
 Repository
 
-"DataStructures on GitHub" (https://github.com/franciskyalo088-eng/DataStructures)
+"DataStructures on GitHub" (https://github.com/francis-codes197/DataStructures)
 
 ---
 
